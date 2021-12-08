@@ -182,13 +182,7 @@ Abstract algebra (occasionally called modern algebra) is the study of algebraic 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Introduction to Abstract Group theory](https://nptel.ac.in/courses/111/106/111106113/) | 8 weeks | 8-10 hours/week |High school mathematics
-[Supplemental Lecture Videos](https://www.youtube.com/watch?v=EaKLXK4hFFQ&list=PLmU0FIlJY-MngWPhBDUPelVV3GhDw_mJu&index=1) | 16 weeks | 8-10 hours/week | Multivariable Calculus
-
-
-
-
-
-
+[Introduction to Rings and Fields](https://nptel.ac.in/courses/111/106/111106131/) | 8 weeks | 8-10 hours/week | Introduction to Abstract Group Theory
 
 ## Advanced Topics
 
