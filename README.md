@@ -172,6 +172,24 @@ Courses | Duration | Effort | Prerequisites
 [Introduction to Analysis](https://ocw.mit.edu/courses/mathematics/18-100a-introduction-to-analysis-fall-2012/) | 14 weeks | 8-10 hours/week | Multivariable Calculus
 [Supplemental Lecture Videos](https://www.youtube.com/watch?v=EaKLXK4hFFQ&list=PLmU0FIlJY-MngWPhBDUPelVV3GhDw_mJu&index=1) | 16 weeks | 8-10 hours/week | Multivariable Calculus
 
+### Introduction to Abstract Algebra
+Abstract algebra (occasionally called modern algebra) is the study of algebraic structures. Algebraic structures include groups, rings, fields, modules, vector spaces, lattices, and algebras. The term abstract algebra was coined in the early 20th century to distinguish this area of study from older parts of algebra, and more specifically from elementary algebra, the use of variables to represent numbers in computation and reasoning.
+
+**Topics covered:**
+`Group Theory`
+`Rings and fields`
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Introduction to Abstract Group theory](https://nptel.ac.in/courses/111/106/111106113/) | 8 weeks | 8-10 hours/week |High school mathematics
+[Supplemental Lecture Videos](https://www.youtube.com/watch?v=EaKLXK4hFFQ&list=PLmU0FIlJY-MngWPhBDUPelVV3GhDw_mJu&index=1) | 16 weeks | 8-10 hours/week | Multivariable Calculus
+
+
+
+
+
+
+
 ## Advanced Topics
 
 Once you've completed all courses in Core Mathematics, you are free to take elective courses in Advanced Topics, which include:
