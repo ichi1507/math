@@ -229,7 +229,13 @@ Courses | Duration | Effort | Prerequisites
 [Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 15 weeks | 45 hours/week | -
 
 ### Geometry
-Classical Geometry, Euclidian and non-Euclidian, introductory topology?
+Classical Geometry, Euclidian and non-Euclidian, introductory topology
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Euclid's Elements](https://mathcs.clarku.edu/~DJoyce/java/elements/elements.html) | 15 weeks | 13 hours/week | -
+[Geometry with an Introduction to Cosmic Topology](https://mphitchman.com) | 15 weeks | 13 hours/week | Multivariable Calculus
+[Introduction to Topology](https://www.math.colostate.edu/~renzo/teaching/Topology10/Notes.pdf) | 15 weeks | 13 hours/week | -
 
 ### Probability and Statistics
 Combinatorics, probability, statistics, game theory, applied stats
