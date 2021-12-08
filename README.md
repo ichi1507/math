@@ -107,6 +107,21 @@ Courses | Duration | Effort | Prerequisites
 [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) | 6 weeks | 5-10 hours/week | Calculus 1B
 [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) | 12 weeks | 6 hours/week | Calculus 1C 
 
+### Geometry 
+Geometry is, with arithmetic, one of the oldest branches of mathematics. It is concerned with properties of space that are related with distance, shape, size, and relative position of figures. 
+
+**Topics Covered:**
+`Euclidean Geometry`
+`Non Euclidean Geometry`
+`Inversive Geometry`
+`Affine Geometry`
+`etc`
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Euclidean plain and its relatives](https://arxiv.org/pdf/1302.1630v19.pdf) | 13 weeks | 8-10 hours/week | Calculus 1C
+
+
 ### Introduction to Differential Equations
 Differential equations describe the science of change: the route by which natural and man-made systems move from one state to another. Epidemics, population growth, and weather patterns are all modeled using differential equations.
 
