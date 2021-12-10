@@ -241,7 +241,7 @@ Courses | Duration | Effort | Prerequisites
 ### Topology
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Topology](https://www.topologywithouttears.net) | 15 weeks | 13 hours/week | Mathematical Maturity
+[Topology](https://www.topologywithouttears.net) | 15 weeks | 13 hours/week | Set Theory, Mathematical Matturity in Algebra and Geometry
 
 ### Probability and Statistics
 Combinatorics, probability, statistics, game theory, applied stats
