@@ -236,6 +236,7 @@ Courses | Duration | Effort | Prerequisites
 [Euclid's Elements](https://mathcs.clarku.edu/~DJoyce/java/elements/elements.html) | 15 weeks | 13 hours/week | Mathematical Maturity
 [Geometry with an Introduction to Cosmic Topology](https://mphitchman.com) | 15 weeks | 13 hours/week | Multivariable Calculus
 [Computational Geometry](https://www.coursera.org/learn/computational-geometry) | 15 weeks | 13 hours/week | programming langauge, proofs
+[First Course in Differential geometry](http://alpha.math.uga.edu/~shifrin/ShifrinDiffGeo.pdf) | 8 weeks | 13 hours/week | Multivariable Calculus
 
 
 ### Probability and Statistics
