@@ -233,9 +233,10 @@ Classical Geometry, Euclidian and non-Euclidian, introductory topology
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Euclid's Elements](https://mathcs.clarku.edu/~DJoyce/java/elements/elements.html) | 15 weeks | 13 hours/week | -
+[Euclid's Elements](https://mathcs.clarku.edu/~DJoyce/java/elements/elements.html) | 15 weeks | 13 hours/week | Mathematical Maturity
 [Geometry with an Introduction to Cosmic Topology](https://mphitchman.com) | 15 weeks | 13 hours/week | Multivariable Calculus
-[Introduction to Topology](https://www.math.colostate.edu/~renzo/teaching/Topology10/Notes.pdf) | 15 weeks | 13 hours/week | -
+[Computational Geometry](https://www.coursera.org/learn/computational-geometry) | 15 weeks | 13 hours/week | programming langauge, proofs
+
 
 ### Probability and Statistics
 Combinatorics, probability, statistics, game theory, applied stats
