@@ -206,6 +206,7 @@ Once you've completed all courses in Core Mathematics, you are free to take elec
 - Differential Equations
 - Mathematical Logic
 - Geometry
+- Topology
 - Probability and Statistics
 - Mathematical Analysis
 - Abstract Algebra
@@ -229,7 +230,6 @@ Courses | Duration | Effort | Prerequisites
 [Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 15 weeks | 45 hours/week | -
 
 ### Geometry
-Classical Geometry, Euclidian and non-Euclidian, introductory topology
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
@@ -238,6 +238,10 @@ Courses | Duration | Effort | Prerequisites
 [Computational Geometry](https://www.coursera.org/learn/computational-geometry) | 15 weeks | 13 hours/week | programming langauge, proofs
 [First Course in Differential geometry](http://alpha.math.uga.edu/~shifrin/ShifrinDiffGeo.pdf) | 8 weeks | 13 hours/week | Multivariable Calculus
 
+### Topology
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Topology](https://www.topologywithouttears.net) | 15 weeks | 13 hours/week | Mathematical Maturity
 
 ### Probability and Statistics
 Combinatorics, probability, statistics, game theory, applied stats
