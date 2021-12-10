@@ -203,6 +203,7 @@ Courses | Duration | Effort | Prerequisites
 
 Once you've completed all courses in Core Mathematics, you are free to take elective courses in Advanced Topics, which include:
 
+- Combinatorics
 - Differential Equations
 - Mathematical Logic
 - Geometry
@@ -215,6 +216,12 @@ To complete your study of Advanced Topics, complete both the Breadth requirement
 
 - **Breadth Requirement:** For each of the 6 Advanced Topics below, select one course to take as an elective.
 - **Depth Requirement:** Select one Advanced Topic below and take 3 additional courses from that topic. 
+
+### Combinatorics
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Graph Theory](https://nptel.ac.in/courses/111/106/111106102/#) | 8 weeks | 4-5 hours/week | High School Math
+[Introduction to Enumerative Combinatorics](https://www.coursera.org/learn/enumerative-combinatorics) | 8 weeks | 3-5 hours/week | Linear Algebra and Intro to Analysis
 
 ### Differential Equations
 Courses | Duration | Effort | Prerequisites
