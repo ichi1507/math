@@ -272,6 +272,8 @@ Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Stochastic Process](https://www.coursera.org/learn/stochasticprocesses) | 9 weeks | 3-4 hours/week | Calculus, Linear Algebra and Probability
 [Data Science](https://nptel.ac.in/courses/111/104/111104147/) | 12 weeks | 5-6 hours/week | [R Programming](https://r4ds.had.co.nz), Probability and Applied Statistics
+[Game Theory](https://www.coursera.org/learn/game-theory-1) | 8 weeks | 3-4 hours/week | Probability and Calculus 1C
+[Game Theory 2](https://www.coursera.org/learn/game-theory-2) | 5 weeks | 5-6 hours/week | Game Theory 
 
 ### Mathematical Analysis
 Real analysis, numerical analysis, complex analysis, optimization theory
