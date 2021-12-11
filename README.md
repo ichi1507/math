@@ -199,6 +199,21 @@ Courses | Duration | Effort | Prerequisites
 [Introduction to Abstract Group theory](https://nptel.ac.in/courses/111/106/111106113/) | 8 weeks | 8-10 hours/week |High school mathematics
 [Introduction to Rings and Fields](https://nptel.ac.in/courses/111/106/111106131/) | 8 weeks | 8-10 hours/week | Introduction to Abstract Group Theory
 
+### Number Theory
+Number theory is a branch of pure mathematics devoted primarily to the study of the integers and integer-valued functions.
+
+**Topics covered:**
+`Factorization of numbers, primes`
+`GCD, Euclid’s algorithm, properties of primes`
+`Arithmetical functions`
+`GDirichlet product`
+`Möbius inversion`
+`etc`
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Number Theory](https://nptel.ac.in/courses/111/101/111101137/) | 12 weeks | 6-10 hours/week |Introduction to Abstract Algebra
+
 ## Advanced Topics
 
 Once you've completed all courses in Core Mathematics, you are free to take elective courses in Advanced Topics, which include:
