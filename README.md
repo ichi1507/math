@@ -278,6 +278,12 @@ Courses | Duration | Effort | Prerequisites
 ### Mathematical Analysis
 Real analysis, numerical analysis, complex analysis, optimization theory
 
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Numerical Analysis](https://www.coursera.org/learn/intro-to-numerical-analysis) | 9 weeks | 3-4 hours/week | Calculus, Linear Algebra and Probability
+[Complex Analysis](https://complex-analysis.com) | 6 weeks | 5-6 hours/week | Intro to Analysis
+
+
 ### Abstract Algebra
 Abstract algebra, category theory, algebraic geometry and topology
 
