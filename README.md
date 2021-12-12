@@ -309,7 +309,6 @@ Courses | Duration | Effort | Prerequisites
 
 After you've gotten through all of Core Math, parts of Advanced Math elevant to you and Mathematical Modeling basics you should think about a problem that you can solve using the knowledge you've acquired. Working on modelling project will also validate and consolidate your knowledge. You can create something entirely new, or you can find an existing problems via websites like [M3C](https://m3challenge.siam.org/archives/2021) and [COMAP](https://www.comap.com/undergraduate/contests/matrix/index.html). Students can work in groups or individually as well.
 
-
 ## Congratulations
 
 After completing the requirements of the curriculum above, you will have completed the equivalent of a full bachelor's degree in Mathematics. Congratulations!
