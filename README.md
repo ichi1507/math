@@ -294,6 +294,22 @@ Courses | Duration | Effort | Prerequisites
 [Introduction to ALgebraic Topology](https://nptel.ac.in/courses/111/101/111101144/) | 14 weeks | 5-6 hours/week | Introduction to Abstract Group theory, Linear Algebra, Topology
 [Introduction to ALgebraic Topology 2](https://nptel.ac.in/courses/111/101/111101152/) | 12 weeks | 5-6 hours/week | Introduction to Alegbraic Topology
 
+# Mathematical Modeling Project
+OSS University is project-focused. The assignments and exams for each course are to prepare you to use your knowledge to solve real-world problems.
+
+What is **Mathematical Modeling**
+
+Mathematical modeling is the process of using various mathematical structures – graphs, equations, diagrams, scatterplots, tree diagrams, and so forth – to represent real world situations. The model provides an abstraction that reduces a problem to its essential characteristics.
+
+To learn Mathematical Modeling we prescribe following course
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Mathematical Modeling Basics](https://ocw.tudelft.nl/courses/mathematical-modeling-basics/) | 9 weeks | 4-8 hours/week | Should have gone through the curriculum and familiarity with [Latex](https://latex-tutorial.com/tutorials/amsmath/) will be useful
+
+After you've gotten through all of Core Math, parts of Advanced Math elevant to you and Mathematical Modeling basics you should think about a problem that you can solve using the knowledge you've acquired. Working on modelling project will also validate and consolidate your knowledge. You can create something entirely new, or you can find an existing problems via websites like [M3C](https://m3challenge.siam.org/archives/2021) and [COMAP](https://www.comap.com/undergraduate/contests/matrix/index.html). Students can work in groups or individually as well.
+
+
 ## Congratulations
 
 After completing the requirements of the curriculum above, you will have completed the equivalent of a full bachelor's degree in Mathematics. Congratulations!
