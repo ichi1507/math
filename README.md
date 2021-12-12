@@ -290,7 +290,8 @@ Abstract algebra, category theory, algebraic geometry and topology
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Introduction to Algebraic geometry and Commutative Algebra](https://nptel.ac.in/courses/111/108/111108136/) | 9 weeks | 3-4 hours/week | Calculus, Linear Algebra and Probability
-[Introduction to ALgebraic Topology](https://nptel.ac.in/courses/111/101/111101144/) | 12 weeks | 5-6 hours/week | Introduction to Abstract Group theory, Linear Algebra, Topology
+[Applied Category Theory](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/) | 9 weeks | 3-4 hours/week | Mathematical Maturity in Abstract Algebra (Intro to Abstract Algebra)
+[Introduction to ALgebraic Topology](https://nptel.ac.in/courses/111/101/111101144/) | 14 weeks | 5-6 hours/week | Introduction to Abstract Group theory, Linear Algebra, Topology
 [Introduction to ALgebraic Topology 2](https://nptel.ac.in/courses/111/101/111101152/) | 12 weeks | 5-6 hours/week | Introduction to Alegbraic Topology
 
 ## Congratulations
