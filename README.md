@@ -281,12 +281,17 @@ Real analysis, numerical analysis, complex analysis, optimization theory
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Numerical Analysis](https://www.coursera.org/learn/intro-to-numerical-analysis) | 9 weeks | 3-4 hours/week | Calculus, Linear Algebra and Probability
-[Complex Analysis](https://complex-analysis.com) | 6 weeks | 5-6 hours/week | Intro to Analysis
+[Complex Analysis](https://complex-analysis.com) | 6 weeks | 5-6 hours/week | In
 
 
 ### Abstract Algebra
 Abstract algebra, category theory, algebraic geometry and topology
 
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Introduction to Algebraic geometry and Commutative Algebra](https://nptel.ac.in/courses/111/108/111108136/) | 9 weeks | 3-4 hours/week | Calculus, Linear Algebra and Probability
+[Introduction to ALgebraic Topology](https://nptel.ac.in/courses/111/101/111101144/) | 12 weeks | 5-6 hours/week | Introduction to Abstract Group theory, Linear Algebra, Topology
+[Introduction to ALgebraic Topology 2](https://nptel.ac.in/courses/111/101/111101152/) | 12 weeks | 5-6 hours/week | Introduction to Alegbraic Topology
 
 ## Congratulations
 
